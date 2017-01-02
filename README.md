@@ -2,11 +2,14 @@
 
 REF: http://docs.openstack.org/newton/install-guide-rdo/overview.html
 
+
 #Architecture:
 
+
 This setup I am doing in 2 nodes.
-    a. 1 Controller Node (contoller)-2 Ethernet, 4GB RAM, 2CPU, 50GB Disk.
-    b. 1 Compute Node (com1) - 2Ethernet, 6GB RAM, 6CPU, 100GB HDD
+
+        a. 1 Controller Node (contoller)-2 Ethernet, 4GB RAM, 2CPU, 50GB Disk.
+        b. 1 Compute Node (com1) - 2Ethernet, 6GB RAM, 6CPU, 100GB HDD
     
 
 #Hardware requirements
